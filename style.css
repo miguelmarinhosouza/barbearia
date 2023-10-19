@@ -5,3 +5,11 @@
 h1{
     font-size: 40px;
 }
+
+header {
+    background-color: darkgrey;
+}
+
+.logo {
+    height: 150px;
+}
